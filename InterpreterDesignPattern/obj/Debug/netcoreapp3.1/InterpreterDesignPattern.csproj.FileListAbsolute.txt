@@ -1,0 +1,11 @@
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp3.1\InterpreterDesignPattern.exe
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp3.1\InterpreterDesignPattern.deps.json
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp3.1\InterpreterDesignPattern.runtimeconfig.json
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp3.1\InterpreterDesignPattern.runtimeconfig.dev.json
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp3.1\InterpreterDesignPattern.dll
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\netcoreapp3.1\InterpreterDesignPattern.pdb
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp3.1\InterpreterDesignPattern.csprojAssemblyReference.cache
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp3.1\InterpreterDesignPattern.AssemblyInfoInputs.cache
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp3.1\InterpreterDesignPattern.AssemblyInfo.cs
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp3.1\InterpreterDesignPattern.dll
+D:\CDP\Design Patterns Practice\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\netcoreapp3.1\InterpreterDesignPattern.pdb
